@@ -1,3 +1,3 @@
 # LeetCode_Practice
 
-Brushing up on Leetcode problems
+Brushing up on Leetcode problems in Java.
